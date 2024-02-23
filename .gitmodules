@@ -1,0 +1,3 @@
+[submodule "locality"]
+	path = locality
+	url = https://github.com/danglorioso/locality
