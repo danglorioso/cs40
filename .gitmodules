@@ -1,9 +1,0 @@
-[submodule "hw01-filesofpix"]
-	path = hw01-filesofpix
-	url = https://github.com/danglorioso/hw01-filesofpix
-[submodule "hw02-iii"]
-	path = hw02-iii
-	url = https://github.com/danglorioso/hw02-iii
-[submodule "hw03-locality"]
-	path = hw03-locality
-	url = https://github.com/danglorioso/hw03-locality
